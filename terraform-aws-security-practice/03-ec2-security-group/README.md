@@ -8,7 +8,7 @@ Provisions an EC2 instance with a Security Group locked down to a single IP addr
 - `aws_security_group` — inbound rule restricted to `<my-ip>/32` on port 22 only; a `/32` CIDR means "this exact IP, no others" (versus a `/24`, which would allow an entire 256-address range)
 - `aws_instance` — a `t3.micro` EC2 instance using both the key pair and the security group
 
-## Verification — the part that matters most
+## Verification
 
 Configuring a firewall rule is not the same as confirming it works. Both sides were tested:
 
@@ -29,4 +29,3 @@ aws ec2 describe-instance-types --filters "Name=free-tier-eligible,Values=true" 
 
 ## Screenshots
 
-*(Add terminal screenshots here: `terraform plan`/`apply` output, the successful SSH connection, and the hung connection attempt from a different network.)*
