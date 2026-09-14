@@ -27,4 +27,4 @@ aws s3 ls   # confirms the bucket no longer exists
 
 ## Screenshots
 
-*(Add terminal screenshots here: `terraform plan` output, `terraform apply` output, and the `aws s3 ls` confirmation before/after destroy.)*
+
