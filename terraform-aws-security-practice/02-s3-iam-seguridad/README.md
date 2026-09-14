@@ -29,4 +29,4 @@ Every security-config resource points back to the bucket using `aws_s3_bucket.pr
 
 ## Screenshots
 
-*(Add terminal screenshots here: `terraform plan` showing 7 resources, the CLI verification commands and their output, and `terraform destroy` output.)*
+
