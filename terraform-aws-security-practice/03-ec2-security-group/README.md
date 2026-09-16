@@ -27,4 +27,14 @@ aws ec2 describe-instance-types --filters "Name=free-tier-eligible,Values=true" 
 
 ## Screenshots
 
-*(Terminal screenshots: plan/apply output, the successful SSH connection, and the hung connection attempt from the other network.)*
+<img width="1680" height="1050" alt="terraform_init_sg" src="https://github.com/user-attachments/assets/fdb9b8e4-9beb-43e2-9d4b-07d0745fba5b" />
+<img width="1680" height="1050" alt="terraform_plan_sg_1" src="https://github.com/user-attachments/assets/f2c846fd-4a93-4f5c-aca4-8b7d15c35c58" />
+<img width="1680" height="1050" alt="terraform_plan_sg_2" src="https://github.com/user-attachments/assets/7c128580-a6a2-4979-9c06-bd428f66c1ee" />
+<img width="1680" height="1050" alt="terraform_apply_sg_1" src="https://github.com/user-attachments/assets/4de1d71c-a51e-487a-b415-abe555945cc1" />
+<img width="1680" height="1050" alt="terraform_apply_sg_2" src="https://github.com/user-attachments/assets/ce3b9e7a-6f54-470e-ba5a-da43e4918555" />
+<img width="1680" height="1050" alt="ec2_connection_ssh" src="https://github.com/user-attachments/assets/851827a9-e0ac-4a20-bbff-34d7a8aca982" />
+<img width="1680" height="97" alt="connection_from_another_IP_failed" src="https://github.com/user-attachments/assets/ffa927ca-9f61-4e76-809d-863a5abfdb01" />
+<img width="1680" height="1050" alt="terraform_destroy_sg_1" src="https://github.com/user-attachments/assets/147b388e-56d2-4c00-8211-763dd8595cc2" />
+<img width="1680" height="1050" alt="terraform_destroy_sg_2" src="https://github.com/user-attachments/assets/c4c51f41-371f-4e4d-8ee6-5b0a86821320" />
+<img width="1680" height="1050" alt="terraform_destroy_sg_3" src="https://github.com/user-attachments/assets/8054b79b-8dbf-43c8-900d-5d5381c3dd9a" />
+
