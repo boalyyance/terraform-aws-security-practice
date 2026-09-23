@@ -48,5 +48,8 @@ That `AccessDenied` on the write attempt was the real confirmation that least pr
 <img width="1680" height="202" alt="proving_ListBucket-rol-permission-worked" src="https://github.com/user-attachments/assets/619ccac0-f83f-4c16-8b55-1bd3868cce53" />
 <img width="1680" height="251" alt="ListBucket_GetObjetc_EC2_role_permission_2" src="https://github.com/user-attachments/assets/b764ea19-5ad8-4283-b281-de08fff734ef" />
 <img width="1680" height="86" alt="confirming_role_not_allowed_to_PutObject_just_read" src="https://github.com/user-attachments/assets/38e6e1a8-2827-46e7-9cca-a12c88a0e6e6" />
+<img width="1680" height="1050" alt="terraform_destroy_1" src="https://github.com/user-attachments/assets/1add1faa-cfa2-493d-b2d1-f930bf8bf31c" />
+<img width="1680" height="1050" alt="terraform_destroy_2" src="https://github.com/user-attachments/assets/ee7dd092-cf10-4b0e-b8fd-f44aca405c9d" />
+
 
 
